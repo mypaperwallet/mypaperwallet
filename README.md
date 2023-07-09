@@ -19,6 +19,5 @@ The my paper wallet name and logo are not part of the open source license.Check 
 3- Click generate wallet. <br>
 4- Click Print to save your wallet as PDF. <br>
 5- Remember to back up your secret words and private key.<br>
-
 <img src="https://raw.githubusercontent.com/mypaperwallet/mypaperwallet/d4189a54760e305ea97fc84cc23ba4d386f4deae/print.png">
-<img> src=  </img>
+
