@@ -13,9 +13,9 @@ The my paper wallet name and logo are not part of the open source license.Check 
 
 
 # Get started
-1- Go to: paperaddres.org
-2- Turn off the internet and or download the code on your machine
-3- Click generate wallet
-4- Click Print to save your wallet as PDF
-5- Remember to back up your secret words and private key.
+1- Go to: paperaddres.org <br>
+2- Turn off the internet and or download the code on your machine. <br>
+3- Click generate wallet. <br>
+4- Click Print to save your wallet as PDF. <br>
+5- Remember to back up your secret words and private key.<br>
 
