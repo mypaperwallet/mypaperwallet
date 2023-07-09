@@ -1,4 +1,4 @@
-# My Paper Wallet
+# My Paper Wallet - EVM-compatible crypto paper wallet generator.
 
 	Donation Address: 0x7444D02dBa1d24551a64D23329464F2AD44257FF
 
