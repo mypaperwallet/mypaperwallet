@@ -1,0 +1,32 @@
+.container {
+  max-width: 100%;
+  padding: 20px;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+.content,
+.sidebar {
+  padding: 20px;
+  margin-bottom: 20px;
+}
+.footer,
+.header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+.content {
+  background-color: #f9f9f9;
+}
+.sidebar {
+  background-color: #ccc;
+}
+@media (max-width: 768px) {
+  .container {
+    padding: 10px;
+  }
+  .sidebar {
+    display: none;
+  }
+}
